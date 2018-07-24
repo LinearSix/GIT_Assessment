@@ -1,4 +1,4 @@
-Explain what a version control system is.
+Explain what a version control system is.\n
     A VCS is a way to track revisions of your project/code and view/revert to earlier versions if desired.
     
 Explain why a version control system is important.
