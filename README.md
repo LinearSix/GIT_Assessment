@@ -21,3 +21,35 @@ Explain what GitHub is.<br />
  <br />
 Push commits from a local repository to a remote repository.<br />
      Pushed assignment content additions of README.md files to CLI_Assessment and GIT_Assessment.<br />
+      <br />
+GIT Assessment<br />
+Know the following:<br />
+<br />
+Why do we use Git?<br />
+    * For version control<br />
+    * In case we need to view, access, or restore and earlier version of a file<br />
+ <br />
+What is the difference between Git and Github<br />
+    * Git is a VCS.<br />
+    * GitHub is server which hosts Git repositories for collaboration and backup.<br />
+ <br />
+How does Git work?<br />
+    * Files are staged for addition (or not) into the next revision using git commands<br />
+    * git add + filename stages the file(s) to be revised<br />
+    * git commit -m 'comment' essentially seals and labels the package of files to be sent to the VCS<br />
+    * git push completes the upload of committed files to the VCS<br />
+ <br />
+What is a Git repository?<br />
+    * A folder that has been designated (initialized) as a Git VCS directory<br />
+ <br />
+Initialize a Git repository<br />
+    * completed<br />
+     <br />
+add and commit changes to a Git repository<br />
+    * Oh so many changes<br />
+     <br />
+Add remote destinations to your local Git repository<br />
+    * Two of them<br />
+     <br />
+push commits from your local Git repository to a remote repository<br />
+    * I pushed it good<br />
